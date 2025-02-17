@@ -1,0 +1,34 @@
+Info: Output directory 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File' created.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Cu.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Cu.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Paste.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Paste.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Silkscreen.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Silkscreen.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Mask.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Mask.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-job.gbrjob'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Cu.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Cu.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Paste.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Paste.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Silkscreen.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Silkscreen.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Mask.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Mask.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-job.gbrjob'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Cu.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Cu.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Paste.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Paste.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Silkscreen.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Silkscreen.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-F_Mask.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-B_Mask.gbr'.
+Plotted to 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\COLLEGE\SEMESTER - 6\EMP\Final_project\Gerber File\Final_project-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
